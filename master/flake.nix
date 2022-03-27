@@ -11,6 +11,7 @@
   inputs.src-edens-master.ref   = "refs/heads/master";
   inputs.src-edens-master.owner = "jiro4989";
   inputs.src-edens-master.repo  = "edens";
+  inputs.src-edens-master.dir   = "";
   inputs.src-edens-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

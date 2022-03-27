@@ -11,6 +11,7 @@
   inputs.src-edens-1_0_0.ref   = "refs/tags/1.0.0";
   inputs.src-edens-1_0_0.owner = "jiro4989";
   inputs.src-edens-1_0_0.repo  = "edens";
+  inputs.src-edens-1_0_0.dir   = "";
   inputs.src-edens-1_0_0.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
